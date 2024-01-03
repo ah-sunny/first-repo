@@ -1,0 +1,10 @@
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: monospace;
+}.para1 p{
+    font-style: italic;
+    color: blueviolet;
+    background-color: rgb(250, 235, 215);
+    border: 20px ridge aqua;
+}
