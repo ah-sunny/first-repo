@@ -1,10 +1,30 @@
-h2{
+.head{
     text-align: center;
     text-transform: uppercase;
     font-family: monospace;
+    background-color: aquamarine;
+    padding: 5px;
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    margin-left: -25%;
 }.para1 p{
     font-style: italic;
     color: blueviolet;
     background-color: rgb(250, 235, 215);
-    border: 20px ridge aqua;
+    border: 20px inset ;
+    padding: 10px;
+    background-image: url(/photo/WhatsApp\ Image\ 2024-01-03\ at\ 07.38.23_118cd7d9.jpg)  ;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}h4{
+    text-decoration: underline;
+    font-style: italic;
+    color: rgb(230, 10, 211);
+}.list{
+    border: 2px solid ;
+    border-radius: 30px;
+    width: auto;
+    background-color: rgba(0, 128, 0, 0.754);
 }
